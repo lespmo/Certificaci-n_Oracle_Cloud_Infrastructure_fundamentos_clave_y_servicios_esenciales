@@ -1,0 +1,2 @@
+# Certificaci-n_Oracle_Cloud_Infrastructure_fundamentos_clave_y_servicios_esenciales
+Certificación Oracle Cloud Infrastructure fundamentos clave y servicios esenciales
